@@ -1,4 +1,4 @@
-# 🧪 Labbook Connect
+# 🧪 Labbook
 
 Welcome to **Labbook Connect**, a modern platform designed to bridge the gap between students and faculty for seamless laboratory record management, submission, and review. Built with performance and AI-driven insights in mind!
 
